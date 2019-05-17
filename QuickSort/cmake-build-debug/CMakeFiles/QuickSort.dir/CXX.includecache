@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class08/templates-JeanleeRoy/QuickSort/Qsort.h
+iostream
+-
+
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class08/templates-JeanleeRoy/QuickSort/main.cpp
+iostream
+-
+Qsort.h
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class08/templates-JeanleeRoy/QuickSort/Qsort.h
+

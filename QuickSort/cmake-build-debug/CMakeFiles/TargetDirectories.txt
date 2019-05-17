@@ -1,0 +1,3 @@
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class08/templates-JeanleeRoy/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class08/templates-JeanleeRoy/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class08/templates-JeanleeRoy/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
